@@ -6,5 +6,7 @@ I have changed this code in the following ways
 3. added alt attributes to the image elements
 4. put the heading attributes in sequential order 
 5. added a concise, descriptive title
+
+
 the repository for this assignment is  https://github.com/LukeMcHenry311/octo-code
 the URL of the deployed application is https://lukemchenry311.github.io/octo-code/

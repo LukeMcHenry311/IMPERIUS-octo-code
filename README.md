@@ -10,3 +10,6 @@ I have changed this code in the following ways
 
 the repository for this assignment is  https://github.com/LukeMcHenry311/octo-code
 the URL of the deployed application is https://lukemchenry311.github.io/octo-code/
+
+
+![logo for octo-code](assets\images\digital-marketing-meeting.jpg)

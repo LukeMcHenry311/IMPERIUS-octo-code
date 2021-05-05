@@ -12,4 +12,4 @@ the repository for this assignment is  https://github.com/LukeMcHenry311/octo-co
 the URL of the deployed application is https://lukemchenry311.github.io/octo-code/
 
 
-![logo for octo-code](assets\images\digital-marketing-meeting.jpg)
+![logo for octo-code](index.html)

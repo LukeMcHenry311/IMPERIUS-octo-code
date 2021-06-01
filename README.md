@@ -12,4 +12,4 @@ the repository for this assignment is  https://github.com/LukeMcHenry311/octo-co
 the URL of the deployed application is https://lukemchenry311.github.io/octo-code/
 
 
-![logo for octo-code](index.html)
+![screenshot of website](https://user-images.githubusercontent.com/82482629/120330705-4d2dad00-c2aa-11eb-90ef-dd4a30370fa8.png)
